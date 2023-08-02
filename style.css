@@ -9,4 +9,6 @@ div{
 }
     p{
         background-color: brown ;
-    }
+        color: black !important ;
+font-size: xx-large;   
+ }
